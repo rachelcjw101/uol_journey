@@ -15,3 +15,5 @@ Once you've orientated yourself, try making some more deliberate changes. Here a
 2. give the robot screwball eyes
 
 3. change the colour of the robot.
+
+![robot](/ITP_1/hack_it_robot_1/robot.png "Robot")
