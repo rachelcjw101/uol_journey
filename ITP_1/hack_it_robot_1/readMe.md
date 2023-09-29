@@ -16,4 +16,5 @@ Once you've orientated yourself, try making some more deliberate changes. Here a
 
 3. change the colour of the robot.
 
+# My Robot
 ![robot](/ITP_1/hack_it_robot_1/robot.png "Robot")
